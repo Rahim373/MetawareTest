@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Metaware Graph</string>
+    <string name="title_activity_home">Metaware Graph</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="device_information">Device Information</string>
+    <string name="acc_gyro">Accelerometer &amp; Gyroscope</string>
+    <string name="sensors">Sensors</string>
+</resources>
